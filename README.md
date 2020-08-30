@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://github.com/SanishGrg/SanishGrg/blob/master/hello-world.gif" width="100%" alt="cover">
+</div>
+
 <!--
 **SanishGrg/SanishGrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
