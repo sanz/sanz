@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <img src="https://github.com/SanishGrg/SanishGrg/blob/master/hello-world.gif" width="100%" alt="cover">
 </div>
