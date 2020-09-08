@@ -2,6 +2,9 @@
   <img src="https://github.com/SanishGrg/SanishGrg/blob/master/hello-world.gif" width="100%" alt="cover">
 </div>
 
+![Sanish's github stats](https://github-readme-stats.vercel.app/api?username=SanishGrg&show_icons=true&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanishGrg&layout=compact)
+
 <!--
 **SanishGrg/SanishGrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
