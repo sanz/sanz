@@ -2,7 +2,7 @@
   <img src="https://github.com/SanishGrg/SanishGrg/blob/master/hello-world.gif" width="100%" alt="cover">
 </div>
 
-![Sanish's github stats](https://github-readme-stats.vercel.app/api?username=sanz&show_icons=true&hide=contribs,prs)
+![Sanish's github stats](https://github-readme-stats.vercel.app/api?username=sanz&show_icons=true&hide=contribs,prs&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanz&layout=compact)
 
 <!--
